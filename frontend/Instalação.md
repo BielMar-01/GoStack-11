@@ -23,3 +23,9 @@ Para que o Webpack fique monitorando constantemente é nessecesario instalar o w
 
 Para roda o webpack server rode o comando
 # yarn webpack-dev-server --mode development
+
+Para que o .css rode normal vamos instalar o 
+# yarn add style-loader css-loader 
+
+Para carregar arquivos dentro da aplicação instalar 
+# yarn add file-loader
