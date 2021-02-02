@@ -35,3 +35,6 @@ Para conectar o back-end com o front-end rode o comando
 
 Para rodar o fornt junto com o back sendo que apareça erros de cors(autorizações) rodar
 # yarn add cors
+
+Para que o babel entenda o async / await e necessario instalar um plugin
+# yarn add @babel/plugin-transform-runtime -D
