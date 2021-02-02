@@ -29,3 +29,9 @@ Para que o .css rode normal vamos instalar o
 
 Para carregar arquivos dentro da aplicação instalar 
 # yarn add file-loader
+
+Para conectar o back-end com o front-end rode o comando
+# yarn add axios
+
+Para rodar o fornt junto com o back sendo que apareça erros de cors(autorizações) rodar
+# yarn add cors
